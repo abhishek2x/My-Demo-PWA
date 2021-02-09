@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/abhishek2x/My-Demo-PWA/static/css/main.8c8b27cf.chunk.css",
+    "main.css": "/abhishek2x/My-Demo-PWA/static/css/main.89ad7a58.chunk.css",
     "main.js": "/abhishek2x/My-Demo-PWA/static/js/main.32bc47fb.chunk.js",
     "main.js.map": "/abhishek2x/My-Demo-PWA/static/js/main.32bc47fb.chunk.js.map",
     "runtime-main.js": "/abhishek2x/My-Demo-PWA/static/js/runtime-main.fcaa8701.js",
@@ -12,13 +12,13 @@
     "index.html": "/abhishek2x/My-Demo-PWA/index.html",
     "service-worker.js": "/abhishek2x/My-Demo-PWA/service-worker.js",
     "service-worker.js.map": "/abhishek2x/My-Demo-PWA/service-worker.js.map",
-    "static/css/main.8c8b27cf.chunk.css.map": "/abhishek2x/My-Demo-PWA/static/css/main.8c8b27cf.chunk.css.map",
+    "static/css/main.89ad7a58.chunk.css.map": "/abhishek2x/My-Demo-PWA/static/css/main.89ad7a58.chunk.css.map",
     "static/js/2.4b60cfa5.chunk.js.LICENSE.txt": "/abhishek2x/My-Demo-PWA/static/js/2.4b60cfa5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fcaa8701.js",
     "static/js/2.4b60cfa5.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
+    "static/css/main.89ad7a58.chunk.css",
     "static/js/main.32bc47fb.chunk.js"
   ]
 }
